@@ -7,6 +7,15 @@ const objImg = [`
       <img src="./images/escala/fajasade.png"/>
     </div>`,
     `<div class="item">
+      <img src="./images/escala/estallidos1.jpg"/>
+    </div>
+    <div class="item">
+      <img src="./images/escala/estallidos2.jpg"/>
+    </div>
+    <div class="item">
+      <img src="./images/escala/estallidos3.jpg"/>
+    </div>
+    <div class="item">
       <img src="./images/escala/imagen6.jpg"/>
     </div>`,
     `<div class="item">
@@ -42,6 +51,13 @@ const objImg = [`
     <div class="item">
       <img src="./images/imagen11.jpg"/>
     </div>
+    <div class="item">
+      <img src="./images/sticker3.jpg"/>
+    </div>
+    <div class="item">
+      <img src="./images/imagen11.jpg"/>
+    </div>
+    
     `];
 cargarEventListeners()
 function cargarEventListeners(){

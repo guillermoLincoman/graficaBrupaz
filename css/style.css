@@ -2280,7 +2280,7 @@ hr {
 	display: inline-block;
 	width: 800px;
 	height: 1px;
-	background-color: #b5b5b596;
+	background-color: #b5b5b52b;
 }
 
 
@@ -14755,11 +14755,11 @@ html[class*="ie"] .dtp-hand, html[class*="ie"] .dtp-hour-hand {
 	background-color: #ffffff !important;
 }
 .blueBackground{
-	background-color: #134e9d !important;
+	background-color: #364998 !important;
 }
 
 .blueText{
-	color: #134e9d !important;
+	color: #364998 !important;
 }
 .yellowText{
 	color: #e4ae60 !important;
@@ -14769,7 +14769,7 @@ html[class*="ie"] .dtp-hand, html[class*="ie"] .dtp-hour-hand {
 }
 
 .blueTextHover:hover{
-	color: #134e9d !important;
+	color: #364998 !important;
 }
 .yellowTextHover:hover{
 	color: #e4ae60 !important;
@@ -14779,7 +14779,7 @@ html[class*="ie"] .dtp-hand, html[class*="ie"] .dtp-hour-hand {
 }
 
 .fa{
-	background-color: #134e9d !important;
+	background-color: #364998 !important;
 
 }
 
